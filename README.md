@@ -1,3 +1,9 @@
+# _metricsapp_
+
+#### By _**Brandon Wright**_
+
+#### _An SPA for tracking and analysing interactions between users and technical support team members._
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
